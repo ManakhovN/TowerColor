@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae86d34771c2c1547ae84d6614b0a4aa, type: 3}
+  m_Name: StringPrefabPairContainer
+  m_EditorClassIdentifier: 
+  _prefabs:
+  - _name: Cyllinder
+    _prefab: {fileID: 1832057956967618908, guid: 4d1bfaceb7386d44d9348d798cc30c37,
+      type: 3}
+  - _name: InputCanvas
+    _prefab: {fileID: 1552416828475382572, guid: 19c92e7cc52786348ae736c078fe2348,
+      type: 3}
+  - _name: Shell
+    _prefab: {fileID: 1552416828475382572, guid: 19c92e7cc52786348ae736c078fe2348,
+      type: 3}
+  - _name: Ball
+    _prefab: {fileID: 2200579989569782311, guid: 7309d53fd3011844cb5870279a079835,
+      type: 3}
+  - _name: Explosion
+    _prefab: {fileID: 1892078723244562, guid: 46876a2780737ec45a19d62f88e5ce56, type: 3}

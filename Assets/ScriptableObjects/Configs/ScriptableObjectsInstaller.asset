@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c99c64a3afb40ad4381fc4d30bc824d0, type: 3}
+  m_Name: ScriptableObjectsInstaller
+  m_EditorClassIdentifier: 
+  _prefabContainer: {fileID: 11400000, guid: 67b500ae09ca1a94d8c9ed3137470750, type: 2}
+  _levelsContainer: {fileID: 11400000, guid: 0b0cb5062375d6d4d9c872311ed1ad1d, type: 2}
